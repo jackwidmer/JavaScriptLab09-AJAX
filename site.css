@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* Lab 9 External Style Sheet - Jack Widmer */
+#responseHTML {
+    border: 3px solid salmon;
+    background-color: wheat;
+}
+#responseJSON {
+    border: 3px solid green;
+    background-color: wheat;
+    overflow-wrap: break-word;
+}
